@@ -1,54 +1,85 @@
 # Sanskrit Phi-4 Fine-Tuning
 
-A project for fine-tuning Microsoft's **Phi-4** language model on a Sanskrit dataset using **LoRA (Low-Rank Adaptation)** for efficient parameter-efficient training.
-
-## 📌 Project Overview
-
-This repository contains the complete pipeline for:
-
-- Dataset preprocessing and cleaning
-- Training/validation/test dataset creation
-- LoRA fine-tuning of the Phi-4 model
-- Model checkpointing
-- Evaluation and inference
-- Comparison between baseline and fine-tuned model outputs
+A project for fine-tuning Microsoft's **Phi-4** language model on a Sanskrit dataset using **LoRA (Low-Rank Adaptation)**. This repository contains the complete training notebook, dataset, evaluation outputs, trained models, and generated predictions.
 
 ---
 
-## 📂 Project Structure
+## 📖 Project Overview
 
-```
+This project demonstrates the end-to-end workflow for adapting a pre-trained Phi-4 language model to Sanskrit using parameter-efficient fine-tuning techniques.
+
+The workflow includes:
+
+- Dataset preprocessing
+- Fine-tuning using LoRA
+- Model evaluation
+- Text generation
+- Saving trained checkpoints and final models
+
+---
+
+## 📂 Repository Structure
+
+```text
 Sanskrit_Phi4_Finetuning/
 │
-├── configs/                     # Configuration files
-├── dataset/                     # Original dataset
-├── evaluation/                  # Evaluation scripts
-├── logs/                        # TensorBoard logs
-├── models/                      # LoRA checkpoints & trained models
-├── notebooks/                   # Jupyter notebooks
+├── dataset/
+├── evaluation/
+├── models/
 ├── outputs/
-│   ├── dataset_splits/
-│   ├── generation_results/
-│   └── config/
+├── Anustubh_Experiment.ipynb
 ├── requirements.txt
 └── README.md
 ```
 
 ---
 
-## ✨ Features
+## 📁 Repository Contents
 
-- Dataset cleaning and preprocessing
-- Automatic train/validation/test split
-- Parameter-efficient fine-tuning using LoRA
-- Model checkpoint saving
-- TensorBoard logging
-- Baseline vs Fine-tuned evaluation
-- CSV export of generated outputs
+### 📓 Anustubh_Experiment.ipynb
+
+The primary notebook containing the complete workflow:
+
+- Loading the Sanskrit dataset
+- Data preprocessing
+- Tokenization
+- LoRA configuration
+- Phi-4 fine-tuning
+- Model evaluation
+- Text generation
+- Saving trained models
+
+### 📂 dataset/
+
+Contains the Sanskrit dataset used for training and evaluation.
+
+### 📂 evaluation/
+
+Stores evaluation scripts and generated evaluation results for the fine-tuned model.
+
+### 📂 models/
+
+Contains trained LoRA adapters, checkpoints, and exported model files.
+
+### 📂 outputs/
+
+Stores generated outputs such as predictions, logs, and intermediate results produced during training and inference.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Features
+
+- Fine-tuning Microsoft's Phi-4
+- LoRA (Parameter-Efficient Fine-Tuning)
+- Sanskrit language dataset
+- Evaluation pipeline
+- Model checkpointing
+- Text generation and inference
+- Reproducible notebook workflow
+
+---
+
+## 🛠️ Technologies Used
 
 - Python
 - PyTorch
@@ -56,20 +87,20 @@ Sanskrit_Phi4_Finetuning/
 - PEFT (LoRA)
 - Accelerate
 - TensorBoard
-- Pandas
+- Jupyter Notebook
 
 ---
 
-## 🚀 Installation
+## ⚙️ Installation
 
-Clone the repository
+Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/Sanskrit_Phi4_Finetuning.git
+git clone https://github.com/BhuviSinghal04/Sanskrit_Phi4_Finetuning.git
 cd Sanskrit_Phi4_Finetuning
 ```
 
-Install dependencies
+Install dependencies:
 
 ```bash
 pip install -r requirements.txt
@@ -77,90 +108,33 @@ pip install -r requirements.txt
 
 ---
 
-## 📊 Dataset
+## ▶️ Running the Project
 
-The project uses a Sanskrit dataset that undergoes:
+Launch the notebook:
 
-- Duplicate removal
-- Data validation
-- Cleaning
-- Train/Validation/Test split
-
-Processed datasets are stored in:
-
+```bash
+jupyter notebook Anustubh_Experiment.ipynb
 ```
-outputs/dataset_splits/
-```
+
+Run the notebook cells sequentially to:
+
+1. Load the dataset
+2. Configure the Phi-4 model
+3. Fine-tune using LoRA
+4. Evaluate the model
+5. Generate Sanskrit text
 
 ---
 
-## 🧠 Training
+## 📊 Results
 
-The project fine-tunes the **Phi-4** model using **LoRA**, reducing GPU memory usage while maintaining strong performance.
+The repository contains:
 
-Training outputs include:
-
-- LoRA adapters
-- Checkpoints
-- TensorBoard logs
-- Configuration files
-
----
-
-## 📈 Evaluation
-
-Evaluation scripts are located in:
-
-```
-evaluation/
-```
-
-Generated outputs are saved under:
-
-```
-outputs/generation_results/
-```
-
-These include comparisons between:
-
-- Baseline model
-- Fine-tuned model
-- Zero-shot generation
-- Three-shot generation
-
----
-
-## 📁 Outputs
-
-The repository stores:
-
-- Trained LoRA adapters
-- Checkpoints
-- Dataset splits
+- Fine-tuned Phi-4 model
+- Training outputs
 - Evaluation results
-- Training configuration
-- TensorBoard logs
-
----
-
-## 📦 Requirements
-
-Install all required packages using:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## 🤝 Contributing
-
-Contributions, suggestions, and improvements are welcome.
-
-1. Fork the repository
-2. Create a new branch
-3. Commit your changes
-4. Open a Pull Request
+- Generated predictions
+- Saved checkpoints
 
 ---
 
