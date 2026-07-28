@@ -1,0 +1,561 @@
+instruction,input,output,generated
+"Objective:
+
+Generate a Sanskrit verse in Anuṣṭubh meter based on a given meaning while strictly following the metrical rules.
+
+Rules of Chandas:
+
+• The verse must follow the Anuṣṭubh meter.
+• The verse must contain exactly 32 syllables.
+• Output exactly four lines (one pāda per line).
+• Use only Sanskrit in Devanagari script.
+• Do not include explanations or extra text.
+
+
+Language:
+The generated verse must be in Sanskrit in Devanagari script.
+The input meaning is given in Hindi.
+Do NOT include English words, transliteration, labels, or explanations.
+
+Output Format:
+(Output exactly 4 lines, one pada per line. Nothing else.)
+
+Now generate the Sanskrit verse for the given Hindi meaning.
+
+Meaning:
+मित्रो ! क्या करनेसे हमलोगों की भलाई होगी ? हमारे लिये कौनसा कार्य शेष रह गया है? कैसे करने से हमारा कार्य शुभ परिणामजनक होगा ? क्या करनेमें हमारा हित है ? आज इसी विपयार हमलोगोंको विचार करना है
+
+Sanskrit Verse:
+",मित्रो ! क्या करनेसे हमलोगों की भलाई होगी ? हमारे लिये कौनसा कार्य शेष रह गया है? कैसे करने से हमारा कार्य शुभ परिणामजनक होगा ? क्या करनेमें हमारा हित है ? आज इसी विपयार हमलोगोंको विचार करना है,किमस्माकं भयेच्छ्रेयः किं कार्यमवशिष्यते कथं च सुकृतं तत् स्यान्मन्त्रयामोऽद्य यद्धितम् ॥,मित्रो! कृत्यं कृत्यं कृत्यं कृत्यं कृत्यं कृत्यं कृत्यं कृत्यं कृत्यं कृत्यं कृत्यं कृत्यं कृत्यं कृत्यं कृत्यं कृत्यं कृत्यं कृत्यं कृत्यं कृत्यं कृत्यं कृत्यं कृत्यं कृत्यं
+"Objective:
+
+Generate a Sanskrit verse in Anuṣṭubh meter based on a given meaning while strictly following the metrical rules.
+
+Rules of Chandas:
+
+• The verse must follow the Anuṣṭubh meter.
+• The verse must contain exactly 32 syllables.
+• Output exactly four lines (one pāda per line).
+• Use only Sanskrit in Devanagari script.
+• Do not include explanations or extra text.
+
+
+Language:
+The generated verse must be in Sanskrit in Devanagari script.
+The input meaning is given in Hindi.
+Do NOT include English words, transliteration, labels, or explanations.
+
+Output Format:
+(Output exactly 4 lines, one pada per line. Nothing else.)
+
+Now generate the Sanskrit verse for the given Hindi meaning.
+
+Meaning:
+और जो यह इन्द्रिय तथा विषयोंके संयोगसे उत्पन्न होनेवाले सब भोग हैं, वे यद्यपि विषयी पुरुषको सुखरूप भासते हैं तो भी निःसन्देह दुःखके ही हेतु हैं और आदि अन्तवाले अर्थात् अनित्य हैं, इसलिये हे अर्जुन ! बुद्धिमान्, विवेकी पुरुष उनमें नहीं रमता ॥
+
+Sanskrit Verse:
+","और जो यह इन्द्रिय तथा विषयोंके संयोगसे उत्पन्न होनेवाले सब भोग हैं, वे यद्यपि विषयी पुरुषको सुखरूप भासते हैं तो भी निःसन्देह दुःखके ही हेतु हैं और आदि अन्तवाले अर्थात् अनित्य हैं, इसलिये हे अर्जुन ! बुद्धिमान्, विवेकी पुरुष उनमें नहीं रमता ॥",ये हि संस्पर्शजा भोगा दुःखयोनय एव ते आद्यन्तवन्तः कौन्तेय न तेषु रमते बुधः ॥,"इन्द्रियविषयसंयोगाद्भोगाः सुखदृश्वलाः, निःसंदेह दुःखहेतुाः, अनित्याः, अर्जुन! बुद्धिमान्, विवेकिन, तेषां न रताम् ॥"
+"Objective:
+
+Generate a Sanskrit verse in Anuṣṭubh meter based on a given meaning while strictly following the metrical rules.
+
+Rules of Chandas:
+
+• The verse must follow the Anuṣṭubh meter.
+• The verse must contain exactly 32 syllables.
+• Output exactly four lines (one pāda per line).
+• Use only Sanskrit in Devanagari script.
+• Do not include explanations or extra text.
+
+
+Language:
+The generated verse must be in Sanskrit in Devanagari script.
+The input meaning is given in Hindi.
+Do NOT include English words, transliteration, labels, or explanations.
+
+Output Format:
+(Output exactly 4 lines, one pada per line. Nothing else.)
+
+Now generate the Sanskrit verse for the given Hindi meaning.
+
+Meaning:
+वैशम्पायनजी कहते हैंजनमेजय ! तदनन्तर साक्षात्‌ इन्द्र अपने उत्तम हाथी ऐरावतपर आरूढ़ हो तपस्यामें लगे हुए सर्वेश्वर श्रीकृष्णका दर्शन करनेके लिये वहाँ आये ॥
+
+Sanskrit Verse:
+",वैशम्पायनजी कहते हैंजनमेजय ! तदनन्तर साक्षात्‌ इन्द्र अपने उत्तम हाथी ऐरावतपर आरूढ़ हो तपस्यामें लगे हुए सर्वेश्वर श्रीकृष्णका दर्शन करनेके लिये वहाँ आये ॥,तत इन्द्र: स्वयं तत्र आरुह्म गजमुत्तमम्‌ द्रष्ट सर्वेश्वरं विष्णुं तपस्यन्तं समाययौ॥,वैशम्पायनः प्रोक्तः जनमेजय! तदनन्तरं साक्षात् इन्द्रः ऐरावतं तिष्ठति तपः प्राप्य देवेशं श्रीकृष्णं दर्शनार्थं गत्वा ॥
+"Objective:
+
+Generate a Sanskrit verse in Anuṣṭubh meter based on a given meaning while strictly following the metrical rules.
+
+Rules of Chandas:
+
+• The verse must follow the Anuṣṭubh meter.
+• The verse must contain exactly 32 syllables.
+• Output exactly four lines (one pāda per line).
+• Use only Sanskrit in Devanagari script.
+• Do not include explanations or extra text.
+
+
+Language:
+The generated verse must be in Sanskrit in Devanagari script.
+The input meaning is given in Hindi.
+Do NOT include English words, transliteration, labels, or explanations.
+
+Output Format:
+(Output exactly 4 lines, one pada per line. Nothing else.)
+
+Now generate the Sanskrit verse for the given Hindi meaning.
+
+Meaning:
+रामराम' ऐसा घोष करना सम्पूर्ण संसारबीजोंको भून डालनेवाला, समस्त इति श्रीबुधकौशिकमुनिविरचितं श्रीरामरक्षास्तोत्रं सम्पूर्णम् सुखसम्पत्तिकी प्राप्ति करानेवाला तथा यमदूतोंको भयभीत करनेवाला ॥
+
+Sanskrit Verse:
+","रामराम' ऐसा घोष करना सम्पूर्ण संसारबीजोंको भून डालनेवाला, समस्त इति श्रीबुधकौशिकमुनिविरचितं श्रीरामरक्षास्तोत्रं सम्पूर्णम् सुखसम्पत्तिकी प्राप्ति करानेवाला तथा यमदूतोंको भयभीत करनेवाला ॥",भर्जनं भवबीजानामर्जनं सुखसम्पदाम् तर्जनं यमदूतानां रामरामेति गर्जनम् ॥,"राम रामो हंकारो हंकारो, संसारं भूतं हतो हतो, सुखं सम्पूर्णं, यमदूतं भयात् ॥"
+"Objective:
+
+Generate a Sanskrit verse in Anuṣṭubh meter based on a given meaning while strictly following the metrical rules.
+
+Rules of Chandas:
+
+• The verse must follow the Anuṣṭubh meter.
+• The verse must contain exactly 32 syllables.
+• Output exactly four lines (one pāda per line).
+• Use only Sanskrit in Devanagari script.
+• Do not include explanations or extra text.
+
+
+Language:
+The generated verse must be in Sanskrit in Devanagari script.
+The input meaning is given in Hindi.
+Do NOT include English words, transliteration, labels, or explanations.
+
+Output Format:
+(Output exactly 4 lines, one pada per line. Nothing else.)
+
+Now generate the Sanskrit verse for the given Hindi meaning.
+
+Meaning:
+जिनकी स्तुति की गयी थी, उन कमलनयन सर्वव्यापी ईश्वर जनार्दन हरिके पास समस्त यादव गये और उन्हें घेरकर खड़े हो गये ॥
+
+Sanskrit Verse:
+","जिनकी स्तुति की गयी थी, उन कमलनयन सर्वव्यापी ईश्वर जनार्दन हरिके पास समस्त यादव गये और उन्हें घेरकर खड़े हो गये ॥",स्तुत्या स्तुतं हरिं विष्णुमी श्वरं कमलेक्षणम्‌ गताश्व यादवाः सर्वे परिवत्रुर्जनार्दनम्‌॥,हरिके पारं गूढं हरिके पारं गूढं हरिके पारं गूढं हरिके पारं गूढं हरिके पारं गूढं हरिके पारं गूढं हरिके पारं गूढं हरिके पारं गूढं हरिके पारं गूढं हरिके पारं गूढं हरिके पारं गूढं हर
+"Objective:
+
+Generate a Sanskrit verse in Anuṣṭubh meter based on a given meaning while strictly following the metrical rules.
+
+Rules of Chandas:
+
+• The verse must follow the Anuṣṭubh meter.
+• The verse must contain exactly 32 syllables.
+• Output exactly four lines (one pāda per line).
+• Use only Sanskrit in Devanagari script.
+• Do not include explanations or extra text.
+
+
+Language:
+The generated verse must be in Sanskrit in Devanagari script.
+The input meaning is given in Hindi.
+Do NOT include English words, transliteration, labels, or explanations.
+
+Output Format:
+(Output exactly 4 lines, one pada per line. Nothing else.)
+
+Now generate the Sanskrit verse for the given Hindi meaning.
+
+Meaning:
+तदनन्तर अक्रूर के आने का समाचार पाकर तथा उस महान् धनुष को भग्न हुआ सुनकर कंस ने चाणूर और मुष्टिक से कहा ॥
+
+Sanskrit Verse:
+",तदनन्तर अक्रूर के आने का समाचार पाकर तथा उस महान् धनुष को भग्न हुआ सुनकर कंस ने चाणूर और मुष्टिक से कहा ॥,अक्रूरागमवृत्तान्तमुपलभ्य महद्धनुः भग्नं श्रुत्वा च कंसोऽपि प्राह चाणूरमुष्टिक ॥,तदनन्तरं क्रूरं श्रवणं कंसः चाणूरं मुष्टिकं च ॥
+"Objective:
+
+Generate a Sanskrit verse in Anuṣṭubh meter based on a given meaning while strictly following the metrical rules.
+
+Rules of Chandas:
+
+• The verse must follow the Anuṣṭubh meter.
+• The verse must contain exactly 32 syllables.
+• Output exactly four lines (one pāda per line).
+• Use only Sanskrit in Devanagari script.
+• Do not include explanations or extra text.
+
+
+Language:
+The generated verse must be in Sanskrit in Devanagari script.
+The input meaning is given in Hindi.
+Do NOT include English words, transliteration, labels, or explanations.
+
+Output Format:
+(Output exactly 4 lines, one pada per line. Nothing else.)
+
+Now generate the Sanskrit verse for the given Hindi meaning.
+
+Meaning:
+ जो इस शरीरक रहते ही काम क्रोध आदिसे उपजनेवाले वेगको रोग सकता है वही योगी है और बहुत कालतक सुख भोगता है ॥
+
+Sanskrit Verse:
+", जो इस शरीरक रहते ही काम क्रोध आदिसे उपजनेवाले वेगको रोग सकता है वही योगी है और बहुत कालतक सुख भोगता है ॥,कारणे सति कामस्य क्रोधस्य सहते च यः ॥ तौ जेतुं वर्ष्मविरहात्स सुखं चिरमश्नुते ,"अस्मद् एव शरीरकं नित्यं कामक्रोधादिसंयोगे रोगं लभते, योगी च सुखं कालात् ॥"
+"Objective:
+
+Generate a Sanskrit verse in Anuṣṭubh meter based on a given meaning while strictly following the metrical rules.
+
+Rules of Chandas:
+
+• The verse must follow the Anuṣṭubh meter.
+• The verse must contain exactly 32 syllables.
+• Output exactly four lines (one pāda per line).
+• Use only Sanskrit in Devanagari script.
+• Do not include explanations or extra text.
+
+
+Language:
+The generated verse must be in Sanskrit in Devanagari script.
+The input meaning is given in Hindi.
+Do NOT include English words, transliteration, labels, or explanations.
+
+Output Format:
+(Output exactly 4 lines, one pada per line. Nothing else.)
+
+Now generate the Sanskrit verse for the given Hindi meaning.
+
+Meaning:
+सम्पूर्ण प्राणियोंका विनाश होनेपर भी उसे भय नहीं होता सबके क्लेश उठानेपर भी उसको किसीसे क्लेश नहीं पहुँचता ॥
+
+Sanskrit Verse:
+",सम्पूर्ण प्राणियोंका विनाश होनेपर भी उसे भय नहीं होता सबके क्लेश उठानेपर भी उसको किसीसे क्लेश नहीं पहुँचता ॥,विनश्यत्सु च भूतेषु न भयं तस्य जायते क्लिश्यमानेषु भूतेषु न स क्लिश्यति केनचित् ॥,असर्वभूतानां विनाशोऽपि भयात् नस्ते सर्वक्लेशोऽपि नस्ते क्लेशः ॥
+"Objective:
+
+Generate a Sanskrit verse in Anuṣṭubh meter based on a given meaning while strictly following the metrical rules.
+
+Rules of Chandas:
+
+• The verse must follow the Anuṣṭubh meter.
+• The verse must contain exactly 32 syllables.
+• Output exactly four lines (one pāda per line).
+• Use only Sanskrit in Devanagari script.
+• Do not include explanations or extra text.
+
+
+Language:
+The generated verse must be in Sanskrit in Devanagari script.
+The input meaning is given in Hindi.
+Do NOT include English words, transliteration, labels, or explanations.
+
+Output Format:
+(Output exactly 4 lines, one pada per line. Nothing else.)
+
+Now generate the Sanskrit verse for the given Hindi meaning.
+
+Meaning:
+उस महाभयंकर संग्राम जोजो राजा मारे गये थे. उनके समस्त राष्ट्रोंको उन्होंके सभी पुत्रोंने प्रास किया ॥
+
+Sanskrit Verse:
+",उस महाभयंकर संग्राम जोजो राजा मारे गये थे. उनके समस्त राष्ट्रोंको उन्होंके सभी पुत्रोंने प्रास किया ॥,ये च तस्मिन् महारौद्रे संग्रामे निहता नृपाः तेषां सर्वाणि राष्ठाणि पुत्राः सर्वे प्रपेदिरे,युद्धं महाबलं राजानं मरणं च तं सर्वराज्यं पुत्रैः प्राप्य ॥
+"Objective:
+
+Generate a Sanskrit verse in Anuṣṭubh meter based on a given meaning while strictly following the metrical rules.
+
+Rules of Chandas:
+
+• The verse must follow the Anuṣṭubh meter.
+• The verse must contain exactly 32 syllables.
+• Output exactly four lines (one pāda per line).
+• Use only Sanskrit in Devanagari script.
+• Do not include explanations or extra text.
+
+
+Language:
+The generated verse must be in Sanskrit in Devanagari script.
+The input meaning is given in Hindi.
+Do NOT include English words, transliteration, labels, or explanations.
+
+Output Format:
+(Output exactly 4 lines, one pada per line. Nothing else.)
+
+Now generate the Sanskrit verse for the given Hindi meaning.
+
+Meaning:
+उस समयके मनुष्य म्लेच्छोंके साथ समूचे हिमालयके पार्श्रभागमें, लवणसमुद्रके तटपर तथा वनोंमें निवास करेंगे॥
+
+Sanskrit Verse:
+","उस समयके मनुष्य म्लेच्छोंके साथ समूचे हिमालयके पार्श्रभागमें, लवणसमुद्रके तटपर तथा वनोंमें निवास करेंगे॥",कृत्स्नं वा हिमवत्पा्श्व कूलं च लवणाम्भस: अरण्येषु च वत्स्यन्ति नरा म्लेच्छगणै: सह: ॥,समयस्य मनुष्यो म्लेच्छसंगैः हिमालये पार्श्वे तटस्थैः वनैः निवासयन्ति ॥
+"Objective:
+
+Generate a Sanskrit verse in Anuṣṭubh meter based on a given meaning while strictly following the metrical rules.
+
+Rules of Chandas:
+
+• The verse must follow the Anuṣṭubh meter.
+• The verse must contain exactly 32 syllables.
+• Output exactly four lines (one pāda per line).
+• Use only Sanskrit in Devanagari script.
+• Do not include explanations or extra text.
+
+
+Language:
+The generated verse must be in Sanskrit in Devanagari script.
+The input meaning is given in Hindi.
+Do NOT include English words, transliteration, labels, or explanations.
+
+Output Format:
+(Output exactly 4 lines, one pada per line. Nothing else.)
+
+Now generate the Sanskrit verse for the given Hindi meaning.
+
+Meaning:
+उस समय वह अपने हिरण्य , धनधान्य, पुत्रस्त्री, भृत्य और गृह आदि के प्रति 'इन सबका क्या होगा ?' इस प्रकार अत्यन्त ममता से व्याकुल हो जाता है ॥
+
+Sanskrit Verse:
+","उस समय वह अपने हिरण्य , धनधान्य, पुत्रस्त्री, भृत्य और गृह आदि के प्रति 'इन सबका क्या होगा ?' इस प्रकार अत्यन्त ममता से व्याकुल हो जाता है ॥",हिरण्यधान्यतनयभार्याभृत्यगृहादिषु एते कथं भविष्यन्तीत्यतीव ममताकुलः ॥,अहं हिरण्यं धनधान्यं पुत्रस्त्रीं भृत्यं गृहं च यत् सर्वं किम् ? अतः अत्यन्तं ममता व्याकुलः ॥
+"Objective:
+
+Generate a Sanskrit verse in Anuṣṭubh meter based on a given meaning while strictly following the metrical rules.
+
+Rules of Chandas:
+
+• The verse must follow the Anuṣṭubh meter.
+• The verse must contain exactly 32 syllables.
+• Output exactly four lines (one pāda per line).
+• Use only Sanskrit in Devanagari script.
+• Do not include explanations or extra text.
+
+
+Language:
+The generated verse must be in Sanskrit in Devanagari script.
+The input meaning is given in Hindi.
+Do NOT include English words, transliteration, labels, or explanations.
+
+Output Format:
+(Output exactly 4 lines, one pada per line. Nothing else.)
+
+Now generate the Sanskrit verse for the given Hindi meaning.
+
+Meaning:
+सुरम्य मधुवन नामक वन ही मेरे पिताका निवासस्थान है वहाँके वृक्ष इच्छानुसार फूल और फल देनेवाले हैं वहाँ हम दोनों साथ रहकर स्वर्गवासियोंके समान मौज करेंगे॥
+
+Sanskrit Verse:
+",सुरम्य मधुवन नामक वन ही मेरे पिताका निवासस्थान है वहाँके वृक्ष इच्छानुसार फूल और फल देनेवाले हैं वहाँ हम दोनों साथ रहकर स्वर्गवासियोंके समान मौज करेंगे॥,रम्यं मधुवनं नाम कामपुष्पफलद्गुमम्‌ सहितौ तत्र रंस्थावो यथा दिवि गतौ तथा॥,"मधुवनं वनं मम पितृनिवासं नाम्ना, तत्र वृक्षाः फलफूलन्ति, स्वर्गवासिनः ममं तु सह ममं मयमयं मौजं च ॥"
+"Objective:
+
+Generate a Sanskrit verse in Anuṣṭubh meter based on a given meaning while strictly following the metrical rules.
+
+Rules of Chandas:
+
+• The verse must follow the Anuṣṭubh meter.
+• The verse must contain exactly 32 syllables.
+• Output exactly four lines (one pāda per line).
+• Use only Sanskrit in Devanagari script.
+• Do not include explanations or extra text.
+
+
+Language:
+The generated verse must be in Sanskrit in Devanagari script.
+The input meaning is given in Hindi.
+Do NOT include English words, transliteration, labels, or explanations.
+
+Output Format:
+(Output exactly 4 lines, one pada per line. Nothing else.)
+
+Now generate the Sanskrit verse for the given Hindi meaning.
+
+Meaning:
+प्रसेन एक समय उस मणिसे विभूषित होकर शिकार खेलने गये और मणिके कारण ही वनमें विचरण करनेवाले सिंहके द्वारा मारे गये॥
+
+Sanskrit Verse:
+",प्रसेन एक समय उस मणिसे विभूषित होकर शिकार खेलने गये और मणिके कारण ही वनमें विचरण करनेवाले सिंहके द्वारा मारे गये॥,कदाचिन्मृगयां यातः प्रसेनस्तेन भूषितः स्यमन्तककृते सिंहाद्‌ वध॑ं प्राप वनेचरात्‌ ॥,प्रसेन मणिकेण विभूषितः शिकारं कृतः वनमध्यं विचरन् सिंहकृत् मरणं ॥
+"Objective:
+
+Generate a Sanskrit verse in Anuṣṭubh meter based on a given meaning while strictly following the metrical rules.
+
+Rules of Chandas:
+
+• The verse must follow the Anuṣṭubh meter.
+• The verse must contain exactly 32 syllables.
+• Output exactly four lines (one pāda per line).
+• Use only Sanskrit in Devanagari script.
+• Do not include explanations or extra text.
+
+
+Language:
+The generated verse must be in Sanskrit in Devanagari script.
+The input meaning is given in Hindi.
+Do NOT include English words, transliteration, labels, or explanations.
+
+Output Format:
+(Output exactly 4 lines, one pada per line. Nothing else.)
+
+Now generate the Sanskrit verse for the given Hindi meaning.
+
+Meaning:
+इस हेय शरीर के मोह से अन्धे हुए ये तथा और भी ऐसे अनेक भूपतिगण हो गए हैं जिन्होंने इस पृथिवीमण्डलको अपनाअपना माना है॥
+
+Sanskrit Verse:
+",इस हेय शरीर के मोह से अन्धे हुए ये तथा और भी ऐसे अनेक भूपतिगण हो गए हैं जिन्होंने इस पृथिवीमण्डलको अपनाअपना माना है॥,एते चान्ये च भूपाला यैरत्र क्षितिमण्डले कृतं ममत्वं मोहान्धैर्नित्यं हेयकलेवरे ॥,अन्धेः मोहात् भूपतिगणानां चतुर्याद्विधं पृथिवीमण्डलं चापि स्वं स्वं न जानाति ॥
+"Objective:
+
+Generate a Sanskrit verse in Anuṣṭubh meter based on a given meaning while strictly following the metrical rules.
+
+Rules of Chandas:
+
+• The verse must follow the Anuṣṭubh meter.
+• The verse must contain exactly 32 syllables.
+• Output exactly four lines (one pāda per line).
+• Use only Sanskrit in Devanagari script.
+• Do not include explanations or extra text.
+
+
+Language:
+The generated verse must be in Sanskrit in Devanagari script.
+The input meaning is given in Hindi.
+Do NOT include English words, transliteration, labels, or explanations.
+
+Output Format:
+(Output exactly 4 lines, one pada per line. Nothing else.)
+
+Now generate the Sanskrit verse for the given Hindi meaning.
+
+Meaning:
+मैं गधे की तरह दुलत्तियाँ सहकर भी स्त्री के पीछेपीछे दौड़ता रहा; फिर मुझमें प्रभाव, तेज और स्वामित्व भला, कैसे रह सकता है ॥
+
+Sanskrit Verse:
+","मैं गधे की तरह दुलत्तियाँ सहकर भी स्त्री के पीछेपीछे दौड़ता रहा; फिर मुझमें प्रभाव, तेज और स्वामित्व भला, कैसे रह सकता है ॥",कुतस्तस्यानुभावः स्यात् तेज ईशत्वमेव वा योऽन्वगच्छंस्त्रियं यान्तीं खरवत् पादताडितः ॥,असुरं दुलत्तीनां सहं स्त्रियोपथं प्राप्य तेजस्वीं स्वामित्वं च ॥
+"Objective:
+
+Generate a Sanskrit verse in Anuṣṭubh meter based on a given meaning while strictly following the metrical rules.
+
+Rules of Chandas:
+
+• The verse must follow the Anuṣṭubh meter.
+• The verse must contain exactly 32 syllables.
+• Output exactly four lines (one pāda per line).
+• Use only Sanskrit in Devanagari script.
+• Do not include explanations or extra text.
+
+
+Language:
+The generated verse must be in Sanskrit in Devanagari script.
+The input meaning is given in Hindi.
+Do NOT include English words, transliteration, labels, or explanations.
+
+Output Format:
+(Output exactly 4 lines, one pada per line. Nothing else.)
+
+Now generate the Sanskrit verse for the given Hindi meaning.
+
+Meaning:
+उसमें प्रवेश करके वे उस परम सुन्दर एवं मनोरम देशका दर्शन करने लगे तदनन्तर पुण्यकी वृद्धि करनेवाले भगवान्‌ उस आश्रममें बैठे ॥
+
+Sanskrit Verse:
+",उसमें प्रवेश करके वे उस परम सुन्दर एवं मनोरम देशका दर्शन करने लगे तदनन्तर पुण्यकी वृद्धि करनेवाले भगवान्‌ उस आश्रममें बैठे ॥,प्रविश्य सुचिरं देशं ददर्श च मनोरमम्‌ निषसाद ततस्तस्मिन्नाश्रमे पुण्यवर्धन:॥,अश्विनं देवतां मम पवित्रं स्थानं ममाश्रमं गच्छतां देवतां ममाश्रमं गच्छतां देवतां ममाश्रमं गच्छतां देवतां ममाश्रमं गच्छतां देवतां ममाश्रमं गच्छतां देवतां ममाश्रमं गच्छतां देवतां ममाश्रमं गच्छतां देवतां
+"Objective:
+
+Generate a Sanskrit verse in Anuṣṭubh meter based on a given meaning while strictly following the metrical rules.
+
+Rules of Chandas:
+
+• The verse must follow the Anuṣṭubh meter.
+• The verse must contain exactly 32 syllables.
+• Output exactly four lines (one pāda per line).
+• Use only Sanskrit in Devanagari script.
+• Do not include explanations or extra text.
+
+
+Language:
+The generated verse must be in Sanskrit in Devanagari script.
+The input meaning is given in Hindi.
+Do NOT include English words, transliteration, labels, or explanations.
+
+Output Format:
+(Output exactly 4 lines, one pada per line. Nothing else.)
+
+Now generate the Sanskrit verse for the given Hindi meaning.
+
+Meaning:
+देखना, भाँतिभाँतिके आयुधोंसे युक्त और नाना प्रकारके बाजूबंदोंसे विभूषित ये मेरी सहस््र भुजाएँ आज किस तरह करोड़ों भुजाओंके समान हो जाती हैं॥
+
+Sanskrit Verse:
+","देखना, भाँतिभाँतिके आयुधोंसे युक्त और नाना प्रकारके बाजूबंदोंसे विभूषित ये मेरी सहस््र भुजाएँ आज किस तरह करोड़ों भुजाओंके समान हो जाती हैं॥",नानाप्रहरणोपेतं नानाङ्गदविभूषितम् अद्य बाहुसहस्रं मे कोटिभूर्त निशामय ॥,अयुधैः युक्ता भौतिका मम भुजाएँ विभूषिताः सर्वभुजैः समानं यथा मम मृदु मांसपेशी ॥
+"Objective:
+
+Generate a Sanskrit verse in Anuṣṭubh meter based on a given meaning while strictly following the metrical rules.
+
+Rules of Chandas:
+
+• The verse must follow the Anuṣṭubh meter.
+• The verse must contain exactly 32 syllables.
+• Output exactly four lines (one pāda per line).
+• Use only Sanskrit in Devanagari script.
+• Do not include explanations or extra text.
+
+
+Language:
+The generated verse must be in Sanskrit in Devanagari script.
+The input meaning is given in Hindi.
+Do NOT include English words, transliteration, labels, or explanations.
+
+Output Format:
+(Output exactly 4 lines, one pada per line. Nothing else.)
+
+Now generate the Sanskrit verse for the given Hindi meaning.
+
+Meaning:
+राजन् ! इस प्रकार में इन्द्रके कथन और अर्जुनके अनुरोधसे सब प्रकारके भयसे तुम्हारी रक्षा करते हुए तुम्हारे साथसाथ टीमोंमें विचरण करूँगा ॥
+
+Sanskrit Verse:
+",राजन् ! इस प्रकार में इन्द्रके कथन और अर्जुनके अनुरोधसे सब प्रकारके भयसे तुम्हारी रक्षा करते हुए तुम्हारे साथसाथ टीमोंमें विचरण करूँगा ॥,सोऽहमिन्द्रस्य वचनानियोगादर्जुनस्य च रक्षमाणो भयेभ्यस्त्वां चरिष्यामि त्वया सह ॥,राजन! इन्द्रस्य कथनं अर्जुनस्य अनुरोधं सर्वभयसे त्वां रक्ष्यं च तव सहसंप्रतिष्ठानं च ॥
+"Objective:
+
+Generate a Sanskrit verse in Anuṣṭubh meter based on a given meaning while strictly following the metrical rules.
+
+Rules of Chandas:
+
+• The verse must follow the Anuṣṭubh meter.
+• The verse must contain exactly 32 syllables.
+• Output exactly four lines (one pāda per line).
+• Use only Sanskrit in Devanagari script.
+• Do not include explanations or extra text.
+
+
+Language:
+The generated verse must be in Sanskrit in Devanagari script.
+The input meaning is given in Hindi.
+Do NOT include English words, transliteration, labels, or explanations.
+
+Output Format:
+(Output exactly 4 lines, one pada per line. Nothing else.)
+
+Now generate the Sanskrit verse for the given Hindi meaning.
+
+Meaning:
+स्त्री ने जिसका मन चुरा लिया; उसकी विद्या व्यर्थ है उसे तपस्या, त्याग और शास्त्राभ्यास से भी कोई लाभ नहीं और इसमें संदेह नहीं कि उसका एकान्तसेवन और मौन भी निष्फल है ॥
+
+Sanskrit Verse:
+","स्त्री ने जिसका मन चुरा लिया; उसकी विद्या व्यर्थ है उसे तपस्या, त्याग और शास्त्राभ्यास से भी कोई लाभ नहीं और इसमें संदेह नहीं कि उसका एकान्तसेवन और मौन भी निष्फल है ॥",किं विद्यया किं तपसा किं त्यागेन श्रुतेन वा किं विविक्तेन मौनेन स्त्रीभिर्यस्य मनो हृतम् ॥,स्त्री चौरायां मनः शून्यं विद्या व्यर्था तपः शास्त्रं चापि न फलमात्रं यत् एकान्तस्नेहं मौनं च न फलं ॥
+"Objective:
+
+Generate a Sanskrit verse in Anuṣṭubh meter based on a given meaning while strictly following the metrical rules.
+
+Rules of Chandas:
+
+• The verse must follow the Anuṣṭubh meter.
+• The verse must contain exactly 32 syllables.
+• Output exactly four lines (one pāda per line).
+• Use only Sanskrit in Devanagari script.
+• Do not include explanations or extra text.
+
+
+Language:
+The generated verse must be in Sanskrit in Devanagari script.
+The input meaning is given in Hindi.
+Do NOT include English words, transliteration, labels, or explanations.
+
+Output Format:
+(Output exactly 4 lines, one pada per line. Nothing else.)
+
+Now generate the Sanskrit verse for the given Hindi meaning.
+
+Meaning:
+वह दानवश्रेष्ठ रोहिणीनन्दन श्रीबलभद्रजी के भार को सहन न कर सकने के कारण वर्षाकालीन मेघ के समान बढ़कर अत्यन्त स्थूल शरीरवाला हो गया ॥
+
+Sanskrit Verse:
+",वह दानवश्रेष्ठ रोहिणीनन्दन श्रीबलभद्रजी के भार को सहन न कर सकने के कारण वर्षाकालीन मेघ के समान बढ़कर अत्यन्त स्थूल शरीरवाला हो गया ॥,असहन् रौहिणेयस्य स भारं दानवोत्तमः ववृधे स महाकाय: प्रावृषीव बलाहकः ॥,रोहिणीनन्दरः श्रीबलभद्रजीं भारं सहन न कर स्याद्वर्षाकालीनमेजं यद्भवितः ॥

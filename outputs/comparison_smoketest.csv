@@ -1,0 +1,5 @@
+run,n_samples,full_anustubh_pct,half_anustubh_pct,semantic_similarity_pct
+baseline_zero_shot,20,0.0,0.0,74.59120178222656
+baseline_three_shot,20,35.0,35.0,69.85880279541016
+trained_zero_shot,20,20.0,20.0,66.39833068847656
+trained_three_shot,20,35.0,35.0,68.46080017089844
